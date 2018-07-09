@@ -1,0 +1,6 @@
+D:\Data\EPRO API\GE OrderFinder Console App\OrderFinder\OrderFinder\bin\Release\OrderFinder.exe.config
+D:\Data\EPRO API\GE OrderFinder Console App\OrderFinder\OrderFinder\bin\Release\OrderFinder.exe
+D:\Data\EPRO API\GE OrderFinder Console App\OrderFinder\OrderFinder\bin\Release\OrderFinder.pdb
+D:\Data\EPRO API\GE OrderFinder Console App\OrderFinder\OrderFinder\obj\Release\OrderFinder.csproj.CoreCompileInputs.cache
+D:\Data\EPRO API\GE OrderFinder Console App\OrderFinder\OrderFinder\obj\Release\OrderFinder.exe
+D:\Data\EPRO API\GE OrderFinder Console App\OrderFinder\OrderFinder\obj\Release\OrderFinder.pdb

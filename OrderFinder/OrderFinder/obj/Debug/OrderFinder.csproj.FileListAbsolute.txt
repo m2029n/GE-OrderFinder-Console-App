@@ -1,0 +1,7 @@
+D:\Data\EPRO API\GE OrderFinder Console App\OrderFinder\OrderFinder\bin\Debug\OrderFinder.exe.config
+D:\Data\EPRO API\GE OrderFinder Console App\OrderFinder\OrderFinder\bin\Debug\OrderFinder.exe
+D:\Data\EPRO API\GE OrderFinder Console App\OrderFinder\OrderFinder\bin\Debug\OrderFinder.pdb
+D:\Data\EPRO API\GE OrderFinder Console App\OrderFinder\OrderFinder\obj\Debug\OrderFinder.csprojResolveAssemblyReference.cache
+D:\Data\EPRO API\GE OrderFinder Console App\OrderFinder\OrderFinder\obj\Debug\OrderFinder.csproj.CoreCompileInputs.cache
+D:\Data\EPRO API\GE OrderFinder Console App\OrderFinder\OrderFinder\obj\Debug\OrderFinder.exe
+D:\Data\EPRO API\GE OrderFinder Console App\OrderFinder\OrderFinder\obj\Debug\OrderFinder.pdb
